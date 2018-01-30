@@ -3,22 +3,22 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: JekyII Personal Blog
+  link: "https://github.com/newlifehaonan/newlifehaonan.github.io"
+  tagline: "Use JekyII web framework to build a personal blog."
 - project:
-  title: DevStudio
+  title: Amazon Music Product Network Analysis
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Build a network predictive model to find the correlation between how users leave reviews and the genres the products belong to."
 - project:
-  title: Tempo
+  title: Expedia Hotel Booking Predictive Analysis.
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Leverage different statistic method to build models to predict the probability of booking rate of target customer."
 - project:
-  title: Atom
+  title: Library membership, checking and research database design.
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "Design a Libray membership keeping system"
 - project:
-  title: Delta
+  title: Mining Movie Website
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Use Scrapy and Beautiful Soup(BS4) to parse and crawle movie website"

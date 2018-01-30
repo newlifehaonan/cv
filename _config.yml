@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Haonan(Harry) Chen
 url: http://newlifehaonan.github.io
 baseurl: '/cv' #change it according to your repository name
 
@@ -14,10 +14,8 @@ style: styles-2
 name: Haonan Chen
 tagline: Data engineer | Database developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'M.S candidate of Computer Science at DePaul University CDM college | I am looking for a Database
+administration, Data engineering, Web development, software development , back-end development internship.'
 
 #sidebar links
 email: HCHEN59@mail.depaul.edu
