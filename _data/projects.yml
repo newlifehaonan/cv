@@ -8,17 +8,17 @@
   tagline: "Use JekyII web framework to build a personal blog."
 - project:
   title: Amazon Music Product Network Analysis
-  link: "#"
+  link: "https://github.com/newlifehaonan/CSC495"
   tagline: "Build a network predictive model to find the correlation between how users leave reviews and the genres the products belong to."
 - project:
   title: Expedia Hotel Booking Predictive Analysis.
-  link: "#"
-  tagline: "Leverage different statistic method to build models to predict the probability of booking rate of target customer."
+  link: "https://github.com/newlifehaonan/CSC424"
+  tagline: "Leverage different statistic method to build models to predict the probability of booking rate of target customers."
 - project:
   title: Library membership, checking and research database design.
-  link: "#"
+  link: ""
   tagline: "Design a Libray membership keeping system"
 - project:
   title: Mining Movie Website
-  link: "#"
+  link: ""
   tagline: "Use Scrapy and Beautiful Soup(BS4) to parse and crawle movie website"
