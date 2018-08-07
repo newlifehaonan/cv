@@ -1,19 +1,19 @@
 - project:
+  title: E-Commercial WebSite
+  link: "https://www.suitsandtables.com."
+  tagline: "•	Front-end: Built a single page web base application using Angular4 framework; Coded maintainable HTML scripts includes landing page, product page, checkout page and admin page decorated with multiple CSS style components such as navigation bar, form control, flexbox and animation transition.•	Back-end: Designed schemas for customer database with no redundancy and anomalies following normalization steps; Built log-in, log-off, lock & unlock and password matching, modifying functionality for the website;"
+- project:
   title: JekyII Personal Blog
   link: "https://github.com/newlifehaonan/newlifehaonan.github.io"
   tagline: "Use JekyII web framework to build a personal blog."
 - project:
   title: Amazon Music Product Network Analysis
   link: "https://github.com/newlifehaonan/CSC495"
-  tagline: "Build a network predictive model to find the correlation between how users leave reviews and the genres the products belong to."
+  tagline: "Build a network predictive model to find the correlation between user purchaing preference and the comment they leave under products"
 - project:
   title: Expedia Hotel Booking Predictive Analysis.
   link: "https://github.com/newlifehaonan/CSC424"
-  tagline: "Leverage different statistic method to build models to predict the probability of booking rate of target customers."
-- project:
-  title: Library membership, checking and research database design.
-  link: ""
-  tagline: "Design a Libray membership keeping system"
+  tagline: "Leverage different statistic method to build models to predict the probability of successful booking of target customers."
 - project:
   title: Mining Movie Website
   link: ""
